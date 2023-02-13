@@ -39,9 +39,15 @@ win10 + cuda11.3 +pytorch1.10.0
 mmseg
 ├── data
 │   ├── VOCdevkit
-│   │   ├── VOC2007
 │   │   ├── VOC2012
-└   └   └── VOCcode
+│   │   │    ├──Annotations
+│   │   │    ├──ImageSets
+│   │   │    ├──JPEGImages
+│   │   │    ├──SegmentationClass
+│   │   │    ├──SegmentationObject
+│   │   │    └──SegmentationClassAug
+│   │   ├── VOC2007
+└   └   └── VOCaug
 ```
 ## 训练
 训练脚本
