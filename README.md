@@ -28,7 +28,6 @@ python tools/train.py pspnet_r50-d8_512x1024_40k_glomeruli.py --work-dir work/ps
 链接：https://pan.baidu.com/s/1W4IdlIdrA_--EUyRlXLc7g?pwd=ao5b 
 提取码：ao5b
 
-<br>
 # OpenMMLab-mmseg-advanced
 ## 使用环境
 win10 + cuda11.3 +pytorch1.10.0
