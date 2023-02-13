@@ -21,11 +21,9 @@ mmseg
 python tools/train.py pspnet_r50-d8_512x1024_40k_glomeruli.py --work-dir work/pspnet
 ```
 # 结果
-<br>+------+-------+-------+
-<br>| aAcc |  mIoU |  mAcc |
-<br>+------+-------+-------+
-<br>| 99.6 | 90.32 | 94.91 |
-<br>+------+-------+-------+
+|  aAcc  |   mIoU  |   mAcc  |
+| :----: | :-----: | :-----: |
+|  99.6  |  90.32  |  94.91  |
 # 训练pth
 链接：https://pan.baidu.com/s/1W4IdlIdrA_--EUyRlXLc7g?pwd=ao5b 
 提取码：ao5b
