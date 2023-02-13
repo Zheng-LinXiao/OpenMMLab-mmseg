@@ -15,15 +15,15 @@ mmseg
 │   │   ├── masks
 └   └   └── images
 ```
-# 训练
+## 训练
 训练脚本
 ```bash
 python tools/train.py pspnet_r50-d8_512x1024_40k_glomeruli.py --work-dir work/pspnet
 ```
-# 结果
+## 结果
 |  aAcc  |   mIoU  |   mAcc  |
 | :----: | :-----: | :-----: |
 |  99.6  |  90.32  |  94.91  |
-# 训练pth
+## 训练pth
 链接：https://pan.baidu.com/s/1W4IdlIdrA_--EUyRlXLc7g?pwd=ao5b 
 提取码：ao5b
