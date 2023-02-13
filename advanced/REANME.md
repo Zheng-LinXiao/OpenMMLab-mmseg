@@ -28,17 +28,16 @@ VOC数据集训练
 ```bash
 python tools/train.py pspnet_r50-d8_512x512_20k_voc12.py --work-dir work/voc
 ```
-<br>
-VOC数据集增强+Aug训练
+<br>VOC数据集增强+Aug训练
 ```bash
 python tools/train.py pspnet_r50-d8_512x512_20k_voc12aug.py --work-dir work/voc_aug
 ```
 ## 结果
-Voc数据集训练结果
+### Voc数据集训练结果
 |  aAcc  |   mIoU  |   mAcc  |
 | :----: | :-----: | :-----: |
 |  91.38 |  64.33  |  77.73  |
-Voc + Aug数据集训练结果
+### Voc + Aug数据集训练结果
 |  aAcc  |   mIoU  |   mAcc  |
 | :----: | :-----: | :-----: |
 |  87.69 |  58.09  |  81.11  |
