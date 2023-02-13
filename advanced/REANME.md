@@ -50,3 +50,5 @@ Voc + Aug数据集训练结果
 <br>Voc+aug数据集训练结果Pth
 <br>20230213_220527.log
 <br>
+链接：https://pan.baidu.com/s/1nuABQIK_5RAVA7K3UDCFFA?pwd=b6in 
+提取码：b6in
