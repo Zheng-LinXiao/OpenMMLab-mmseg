@@ -52,6 +52,7 @@ python tools/train.py pspnet_r50-d8_512x512_20k_voc12.py --work-dir work/voc
 |  aAcc  |   mIoU  |   mAcc  |
 | :----: | :-----: | :-----: |
 |  91.38 |  64.33  |  77.73  |
+
 ## 训练pth
 链接：https://pan.baidu.com/s/1p9SGjS0yeNCzOqZf5Fdizw?pwd=h0ll 
 提取码：h0ll
